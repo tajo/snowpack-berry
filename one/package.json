@@ -1,0 +1,9 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "bin": "./run.js",
+  "dependencies": {
+    "canvas-confetti": "^1.4.0",
+    "snowpack": "^3.0.13"
+  }
+}

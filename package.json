@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "snowpack-berry",
+  "workspaces": [
+    "one",
+    "two"
+  ]
+}

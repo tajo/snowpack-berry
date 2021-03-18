@@ -1,0 +1,11 @@
+{
+  "name": "two",
+  "version": "1.0.0",
+  "dependencies": {
+    "emojisplosion": "^2.5.0",
+    "one": "workspace:*"
+  },
+  "scripts": {
+    "run": "yarn one"
+  }
+}
