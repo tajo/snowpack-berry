@@ -6,6 +6,6 @@
     "one": "workspace:*"
   },
   "scripts": {
-    "run": "yarn one"
+    "dev": "yarn one"
   }
 }
